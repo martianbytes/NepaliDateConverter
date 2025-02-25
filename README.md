@@ -18,7 +18,7 @@ This is a C++ program that converts dates between the **Bikram Sambat (BS)** and
 ### Steps to Compile and Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:martianbytes/NepaliDateConverter.git
    cd <your-repo-folder>
    ```
 2. Compile the program:
