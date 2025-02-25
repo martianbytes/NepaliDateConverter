@@ -38,6 +38,6 @@ Feel free to fork this repo and contribute by adding improvements or fixing issu
 This project is open-source under the **MIT License**.
 
 ---
-**Author:** [Your Name]  
+**Author:** [martianbytes]  
 📌 If you found this useful, consider giving a ⭐ to the repo!
 
