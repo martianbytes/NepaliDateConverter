@@ -11,6 +11,7 @@ bool isLeapYear(int year) {
 
 int getDaysInMonth(int year, int month) {
     // Days in each month, except February which will be handled based on leap years
+    //it is 0 based make sure you already subtracted the month by 1
     switch (month) {
         case 0: // January
         case 2: // March
